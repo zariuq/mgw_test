@@ -1,0 +1,11 @@
+# Markdown documentation files
+*.md
+
+# Build artifacts
+*.pfg
+*.html
+
+# Temporary files
+*~
+*.bak
+*.swp
