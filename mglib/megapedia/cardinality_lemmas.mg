@@ -1,5 +1,3 @@
-(** $I sig/PfgEAug2022Preamble.mgs **)
-
 Theorem equip_refl : forall X:set, equip X X.
 let X.
 exact equip_ref X.
